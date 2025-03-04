@@ -27,7 +27,8 @@
       display: grid;
       grid-template-columns: 450px 500px;
       border: 1px solid gray;
-      padding: 2px;
+      padding: 5px;
+      margin-left: 12px;
     }
   
 .homefooter-grid-text1 {
