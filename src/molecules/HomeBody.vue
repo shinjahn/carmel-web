@@ -46,12 +46,13 @@
 .homebody-overlay-text1 {
   text-align: left;
   color: darkblue;
+  font-style: italic;
   font-size: 20px;
   line-height: 20px;
   justify-content: top left;
   padding: 5px;
   margin-top: 5px;
-  margin-left: 5px;
+  margin-left: 15px;
   margin-right: 10px;
 }
 
@@ -70,6 +71,7 @@
 .homebody-overlay-text2 {
   text-align: left;
   color: darkblue;
+  font-style: italic;
   font-size: 20px;
   line-height: 20px;
   justify-content: top left;
