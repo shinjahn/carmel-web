@@ -102,7 +102,7 @@
   font-size: 20px;
   line-height: 20px;
   justify-content: top left;
-  margin-left: 1px;
+  margin-left: 0px;
   margin-right: 10px;
 }
 
