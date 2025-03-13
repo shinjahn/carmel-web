@@ -13,25 +13,16 @@
           <p>Our Beliefs</p>
         </div>
 
-        <div class="belief-about">
-          <p>God</p>
-        </div>
         <div class="Belief-text">
-          <p>We believe in one God existing in three persons: Father, Son, and Holy Spirit.</p>  
+          <p>God: We believe in one God existing in three persons: Father, Son, and Holy Spirit.</p>  
         </div>
 
-        <div class="belief-about">
-          <p>Christ</p>
-        </div>
         <div class="Belief-text">
-          <p>In the virgin birth of Christ, and that he is true God and true man. That the Lord Jesus Christ died for our sins, and that with his shed blood, he obtained  for us an eternal redemption. In the resurection of the crucified body of our Lord, in his ascension into heaven, and in his present life as our high priest and advocate.</p>
+          <p>Christ: In the virgin birth of Christ, and that he is true God and true man. That the Lord Jesus Christ died for our sins, and that with his shed blood, he obtained  for us an eternal redemption. In the resurection of the crucified body of our Lord, in his ascension into heaven, and in his present life as our high priest and advocate.</p>
         </div> 
 
-        <div class="belief-about">
-          <p>Salvation</p>
-        </div>
         <div class="Belief-text">
-          <p>Salvation is the free gift of God, entirely apart from works, and is possessed by all who by faith received the Lord Jesus Christ as their personal Savior.</p>
+          <p>Salvation: Salvation is the free gift of God, entirely apart from works, and is possessed by all who by faith received the Lord Jesus Christ as their personal Savior.</p>
         </div>    
         
       </div>
@@ -111,18 +102,7 @@
   font-size: 20px;
   line-height: 20px;
   justify-content: top left;
-  margin-left: 10px;
-  margin-right: 10px;
-}
-
-.belief-about {
-  text-align: left;
-  color: orangered;
-  font-style: italic;
-  font-size: 20px;
-  line-height: 20px;
-  justify-content: left;
-  margin-left: 10px;
+  margin-left: 1px;
   margin-right: 10px;
 }
 
