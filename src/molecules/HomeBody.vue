@@ -14,15 +14,15 @@
         </div>
 
         <div class="Belief-text">
-          <p>God: We believe in one God existing in three persons: Father, Son, and Holy Spirit.</p>  
+          <p><span style="color: orange;">God:</span> We believe in one God existing in three persons: Father, Son, and Holy Spirit.</p>  
         </div>
 
         <div class="Belief-text">
-          <p>Christ: In the virgin birth of Christ, and that he is true God and true man. That the Lord Jesus Christ died for our sins, and that with his shed blood, he obtained  for us an eternal redemption. In the resurection of the crucified body of our Lord, in his ascension into heaven, and in his present life as our high priest and advocate.</p>
+          <p><span style="color: orange;">Christ:</span> In the virgin birth of Christ, and that he is true God and true man. That the Lord Jesus Christ died for our sins, and that with his shed blood, he obtained  for us an eternal redemption. In the resurection of the crucified body of our Lord, in his ascension into heaven, and in his present life as our high priest and advocate.</p>
         </div> 
 
         <div class="Belief-text">
-          <p>Salvation: Salvation is the free gift of God, entirely apart from works, and is possessed by all who by faith received the Lord Jesus Christ as their personal Savior.</p>
+          <p><span style="color: orange;">Salvation:</span> Salvation is the free gift of God, entirely apart from works, and is possessed by all who by faith received the Lord Jesus Christ as their personal Savior.</p>
         </div>    
         
       </div>
