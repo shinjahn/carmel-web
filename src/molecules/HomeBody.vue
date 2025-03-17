@@ -14,11 +14,15 @@
         </div>
 
         <div class="Belief-text">
-          <p><span style="color: orange;">God:</span> We believe in one God existing in three persons: Father, Son, and Holy Spirit.</p>  
+          <p><span style="color: orange;">God:</span> We believe in one God eternally existing in three persons: Father, Son, and Holy Spirit.</p>  
         </div>
 
         <div class="Belief-text">
           <p><span style="color: orange;">Christ:</span> In the virgin birth of Christ, and that he is true God and true man. That the Lord Jesus Christ died for our sins, and that with his shed blood, he obtained  for us an eternal redemption. In the resurection of the crucified body of our Lord, in his ascension into heaven, and in his present life as our high priest and advocate.</p>
+        </div> 
+
+        <div class="Belief-text">
+          <p><span style="color: orange;">The Holy Spirit:</span> That the Holy Spirit is a divine person and that he indwells all believers.</p>
         </div> 
 
         <div class="Belief-text">
