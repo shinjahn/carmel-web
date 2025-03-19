@@ -28,7 +28,11 @@
         <div class="Belief-text">
           <p><span style="color: orange;">Salvation:</span> Salvation is the free gift of God, entirely apart from works, and is possessed by all who by faith received the Lord Jesus Christ as their personal Savior.</p>
         </div>    
-        
+ 
+        <div class="Belief-text">
+          <p><span style="color: orange;">Scripture:</span> In the verbal inspiration of all the Scriptures, both the Old and New Testaments, and that they are the final authority in faith and life.</p>
+        </div> 
+
       </div>
     </div> 
   </div>
@@ -106,7 +110,7 @@
   font-size: 20px;
   line-height: 20px;
   justify-content: top left;
-  margin-left: 5px;
+  margin-left: 0px;
   margin-right: 10px;
 }
 
