@@ -33,7 +33,7 @@
           <p><span style="color: orange;">Scripture:</span> In the verbal inspiration of all the Scriptures, both the Old and New Testaments, and that they are the final authority in faith and life.</p>
         </div> 
 
-      </div>
+     </div>
     </div> 
   </div>
 </template>
@@ -112,6 +112,7 @@
   justify-content: top left;
   margin-left: 0px;
   margin-right: 10px;
+  margin-bottom: 10px;
 }
 
 .belief-text {
