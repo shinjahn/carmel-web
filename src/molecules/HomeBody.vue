@@ -112,7 +112,7 @@
   justify-content: top left;
   margin-left: 0px;
   margin-right: 10px;
-  margin-bottom: 31px;
+  margin-bottom: 30px;
 }
 
 .belief-text {
