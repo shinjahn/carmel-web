@@ -22,7 +22,7 @@
         </div> 
 
         <div class="Belief-text">
-          <p><span style="color: orange;">The Holy Spirit:</span> That the Holy Spirit is a divine person and that he indwells all believers.</p
+          <p><span style="color: orange;">The Holy Spirit:</span> That the Holy Spirit is a divine person and that he indwells all believers.</p>
         </div>    
 
         <div class="Belief-text">
